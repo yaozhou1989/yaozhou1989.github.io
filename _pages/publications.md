@@ -45,4 +45,6 @@ Co-authored publications
 
   H. Qin, J. Liu, J. Xiao, R. Zhang, Y. He, Y. Wang, J. W. Burby, C. L. Ellison, and Y. Zhou. [Canonical symplectic particle-in-cell method for long-term large-scale simulations of the Vlasov-Maxwell equations](http://dx.doi.org/10.1088/0029-5515/56/1/014001), Nucl. Fusion 56, 014001 (2016).
 
-
+Ph.D. Thesis
+======
+  Y. Zhou, [Variational Integration for Ideal Magnetohydrodynamics and Formation of Current Singularities](http://arxiv.org/abs/1708.08523), Ph.D. thesis (Princeton University, 2017). 
