@@ -35,7 +35,7 @@ author_profile: true
 
   Y. Zhou, Y.-M. Huang, H. Qin, and A. Bhattacharjee, [Formation of current singularity in a topologically constrained plasma](http://link.aps.org/doi/10.1103/PhysRevE.93.023205), Phys. Rev. E 93, 023205 (2016).
 
-  H. Qin, J. Liu, J. Xiao, R. Zhang, Y. He, Y. Wang, J. W. Burby, C. L. Ellison, and Y. Zhou. [Canonical symplectic particle-in-cell method for long-term large-scale simulations of the Vlasov-Maxwell equations](http://dx.doi.org/10.1088/0029-5515/56/1/014001%5Cnhttp://stacks.iop.org/0029-5515/56/i=1/a=014001?key=crossref.1ffa31c53c5b67ebf043fd3efca6dab3), Nucl. Fusion 56, 014001 (2016).
+  H. Qin, J. Liu, J. Xiao, R. Zhang, Y. He, Y. Wang, J. W. Burby, C. L. Ellison, and Y. Zhou. [Canonical symplectic particle-in-cell method for long-term large-scale simulations of the Vlasov-Maxwell equations](http://dx.doi.org/10.1088/0029-5515/56/1/014001), Nucl. Fusion 56, 014001 (2016).
 
   Y. Zhou, H. Qin, J. W. Burby, and A. Bhattacharjee, [Variational integration for ideal magnetohydrodynamics
 with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.4897372), Phys. Plasmas 21, 102109 (2014).
