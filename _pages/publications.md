@@ -3,6 +3,9 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
+
+{% include base_path %}
+
 First-author publications
 ======
   Y. Zhou, N. M. Ferraro, S. C. Jardin, and H. R. Strauss, [Approach to nonlinear magnetohydrodynamic simulations in stellarator geometry](https://iopscience.iop.org/article/10.1088/1741-4326/ac0b35), Nucl. Fusion 61, 086015 (2021).
