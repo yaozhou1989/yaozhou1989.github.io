@@ -5,10 +5,38 @@ permalink: /publications/
 author_profile: true
 ---
 
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  Y. Zhou, N. M. Ferraro, S. C. Jardin, and H. R. Strauss, [Approach to nonlinear magnetohydrodynamic simulations in stellarator geometry](https://iopscience.iop.org/article/10.1088/1741-4326/ac0b35), Nucl. Fusion 61, 086015 (2021).
 
-{% include base_path %}
+  H. Zhu, Y. Zhou, and I. Y. Dodin, [Theory of the tertiary instability and the Dimits shift within a scalar model](https://www.cambridge.org/core/product/identifier/S0022377820000823/type/journal_article), J. Plasma Phys. 86, 905860405 (2020).
 
-  Y. Zhou, N. M. Ferraro, S. C. Jardin, and H. R. Strauss, [Approach to nonlinear magnetohydrodynamic
-simulations in stellarator geometry](https://iopscience.iop.org/article/10.1088/1741-4326/ac0b35), Nucl. Fusion 61, 086015 (2021).
+  D. Pfefferlé, L. Noakes, and Y. Zhou, [Rigidity of MHD equilibria to smooth incompressible ideal motion near resonant surfaces](https://iopscience.iop.org/article/10.1088/1361-6587/ab8ca3), Plasma Phys. Control. Fusion 62, 074004 (2020).
+
+  V. Tsiolis, Y. Zhou, and I. Y. Dodin, [Structure formation in turbulence as instability of effective quantum plasma](https://doi.org/10.1016/j.physleta.2020.126377), Phys. Lett. A 384, 126377 (2020).
+
+  Y. Zhou, H. Zhu, and I. Y. Dodin, [Solitary zonal structures in subcritical drift waves: a minimum model](https://iopscience.iop.org/article/10.1088/1361-6587/ab78f3), Plasma Phys. Control. Fusion 62, 045021(2020).
+
+  H. Zhu, Y. Zhou, and I. Y. Dodin, [Theory of the tertiary instability and the Dimits shift from reduced drift-wave models](https://doi.org/10.1103/PhysRevLett.124.055002), Phys. Rev. Lett. 124, 055002 (2020).
+
+  I. Y. Dodin, D. E. Ruiz, K. Yanagihara, Y. Zhou, S. Kubo, [Quasioptical modeling of wave beams with and without mode conversion. I. Basic theory](http://aip.scitation.org/doi/10.1063/1.5095076), Phys. Plasmas 26, 072110 (2019). 
+
+  H. Zhu, Y. Zhou, and I. Y. Dodin, [Nonlinear saturation and oscillations of collisionless zonal flows](https://iopscience.iop.org/article/10.1088/1367-2630/ab2251), New J. Phys. 21, 063009 (2019).
+
+  Y. Zhou, H. Zhu, and I. Y. Dodin, [Formation of solitary zonal structures via the modulational instability of drift waves](https://iopscience.iop.org/article/10.1088/1361-6587/ab16a8), Plasma Phys. Control. Fusion 61, 075003 (2019).
+
+  Y. Zhou, Y.-M. Huang, A. H. Reiman, H. Qin, and A. Bhattacharjee, [Magnetohydrodynamical equilibria with current singularities and continuous rotational transform](http://aip.scitation.org/doi/10.1063/1.5068778), Phys. Plasmas 26, 022103 (2019).
+
+  H. Zhu, Y. Zhou, and I. Y. Dodin, [On the Rayleigh–Kuo criterion for the tertiary instability of zonal flows](http://aip.scitation.org/doi/10.1063/1.5038859), Phys. Plasmas 25, 082121 (2018).
+
+  H. Zhu, Y. Zhou, and I. Y. Dodin, [On the structure of the drifton phase space and its relation to the Rayleigh–Kuo criterion of the zonal-flow stability](http://aip.scitation.org/doi/10.1063/1.5039652), Phys. Plasmas 25, 072121 (2018).
+
+  H. Zhu, Y. Zhou, D. E. Ruiz, and I. Y. Dodin, [Wave kinetics of drift-wave turbulence and zonal flows beyond the ray approximation](http://dx.doi.org/10.1103/PhysRevE.97.053210), Phys. Rev. E 97, 053210 (2018).
+
+  Y. Zhou, Y.-M. Huang, H. Qin, and A. Bhattacharjee, [Constructing current singularity in a 3D line-tied plasma](http://dx.doi.org/10.3847/1538-4357/aa9b84), Astrophys. J. 852, 3 (2018).
+
+  Y. Zhou, Y.-M. Huang, H. Qin, and A. Bhattacharjee, [Formation of current singularity in a topologically constrained plasma](http://link.aps.org/doi/10.1103/PhysRevE.93.023205), Phys. Rev. E 93, 023205 (2016).
+
+  H. Qin, J. Liu, J. Xiao, R. Zhang, Y. He, Y. Wang, J. W. Burby, C. L. Ellison, and Y. Zhou. [Canonical symplectic particle-in-cell method for long-term large-scale simulations of the Vlasov-Maxwell equations](http://dx.doi.org/10.1088/0029-5515/56/1/014001%5Cnhttp://stacks.iop.org/0029-5515/56/i=1/a=014001?key=crossref.1ffa31c53c5b67ebf043fd3efca6dab3), Nucl. Fusion 56, 014001 (2016).
+
+  Y. Zhou, H. Qin, J. W. Burby, and A. Bhattacharjee, [Variational integration for ideal magnetohydrodynamics
+with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.4897372), Phys. Plasmas 21, 102109 (2014).
 
