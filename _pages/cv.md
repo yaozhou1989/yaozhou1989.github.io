@@ -16,9 +16,9 @@ Education
 
 Employment
 ======
-* 2021.9 - : Tenure-track Associate Professor, Shanghai Jiao Tong University
+* Sep 2021 - : Tenure-track Associate Professor, Shanghai Jiao Tong University
 
-* 2021.2 - 2021.8: Staff Research Physicist, Princeton Plasma Physics Laboratory 
+* Feb 2021 - Aug 2021: Staff Research Physicist, Princeton Plasma Physics Laboratory 
   
-* 2017.9 - 2021.1: Associate Research Physicist, Princeton Plasma Physics Laboratory 
+* Sep 2017 - Jan 2021: Associate Research Physicist, Princeton Plasma Physics Laboratory 
 
