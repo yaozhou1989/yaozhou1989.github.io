@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yao Zhou"
   avatar           : "profile_1.jpg"
-  bio              : "Tenure-track Associate Professor at Shanghai Jiao Tong University"
+  bio              : "Theoretical and Computational Plasma Physicist at Shanghai Jiao Tong University"
   location         : "Shanghai"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oU77w6UAAAAJ&hl=en&oi=sra"
-  email            :
+  email            :  yaozhou.pppl@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
