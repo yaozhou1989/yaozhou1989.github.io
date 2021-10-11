@@ -14,4 +14,4 @@ I study theoretical and computational plasma physics and specialize in three-dim
 
 Openings
 ======
-Positions are available for postdocs and students. Send me an [email](mailto:{{ author.email }}) if interested.
+Positions are available for postdocs and students. Send me an [email](mailto:yao.zhou@sjtu.edu.cn) if interested.
