@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
+About me
+======
 I am a Tenure-track Associate Professor at the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/) and [School of Physics and Astronomy](https://www.physics.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
 Previously, I worked in the [Theory Department](https://theory.pppl.gov/) of [Princeton Plasma Physics Laboratory](https://www.pppl.gov/) (PPPL) first as a postdoc with [Ilya Dodin](http://www.princeton.edu/~idodin/) and later a staff scientist under the supervision of [Nate Ferraro](https://w3.pppl.gov/~nferraro/). 
 I obtained my Ph.D. in [Plasma Physics](https://plasma.princeton.edu/) from [Princeton University](https://www.princeton.edu/), where I was advised by [Hong Qin](https://plasma.princeton.edu/people/hong-qin) and [Amitava Bhattacharjee](https://plasma.princeton.edu/people/abhattacharjee), and B.S. in Mathematics and Physics from [Tsinghua University](https://www.tsinghua.edu.cn/). 
