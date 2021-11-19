@@ -34,7 +34,7 @@ One approach to designing such schemes by preserving the structures that underpi
 In particular, structure-preserving particle-in-cell methods have matured and are ready to be used in production.
 For ideal MHD, I developed a moving-mesh variational integrator that is free of numerical resistivity, which facilitated the aforementioned studies on current singularity formation.
 Below is a demonstration of this feature by simulating the coalescence instability of magnetic islands, which would typically trigger artificial reconnection with conventional numerical methods.
-However, this fully-Lagrangian method has a limited application domain, and more robust (semi-Lagrangian or Eulerian) structure-preserving discretizations of MHD, and fluid systems in general, turn to be much more challenging.
+However, this fully Lagrangian method has a limited application domain, and more robust (semi-Lagrangian or Eulerian) structure-preserving discretizations of MHD, and fluid systems in general, turn to be much more challenging.
 <p align='center'>
 <img src='/images/coalescence.png' width='600'>
 </p>
@@ -53,9 +53,9 @@ Modern wave theory and ray tracing
 ======
 An approach closely related to wave kinetics is ray tracing, a.k.a. geometric optics, which is widely used in many areas such as computer graphics. 
 In plasma physics, ray tracing is often used in modeling propagation of radio-frequency waves in magnetic fusion and laser beams in inertial fusion. 
-However, there are scenarios where geometrical optics fails, such as caustics and mode conversions, which are actually important in practice. 
-Thankfully, recent advances in modern wave theory may be able to model them by extending geometrical optics. 
-Shown below are Wigner fuctions of 1D full-wave simulations of the ordinary-extraodinary-Bernstein conversion in a magnetized plasma, which transparently visualizes the process in phase space. 
+However, there are scenarios where geometrical optics fails, such as caustics and mode conversions, which are actually quite important in practice. 
+Thankfully, recent advances in modern wave theory may extend geometrical optics such that modeling them becomes possible. 
+Shown below are Wigner fuctions of 1D full-wave simulations of the ordinary-extraodinary-Bernstein conversion in a magnetized plasma, which transparently visualize the process in phase space. 
 <p align='center'>
 <img src='/images/OXB.png' width='800'>
 </p>
