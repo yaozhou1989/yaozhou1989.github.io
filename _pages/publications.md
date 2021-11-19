@@ -10,7 +10,7 @@ First-author publications
 ======
   Y. Zhou, N. M. Ferraro, S. C. Jardin, and H. R. Strauss, [Approach to nonlinear magnetohydrodynamic simulations in stellarator geometry](https://iopscience.iop.org/article/10.1088/1741-4326/ac0b35), Nucl. Fusion 61, 086015 (2021).
 
-  Y. Zhou, H. Zhu, and I. Y. Dodin, [Solitary zonal structures in subcritical drift waves: a minimum model](https://iopscience.iop.org/article/10.1088/1361-6587/ab78f3), Plasma Phys. Control. Fusion 62, 045021(2020).
+  Y. Zhou, H. Zhu, and I. Y. Dodin, [Solitary zonal structures in subcritical drift waves: a minimum model](https://iopscience.iop.org/article/10.1088/1361-6587/ab78f3), Plasma Phys. Control. Fusion 62, 045021 (2020).
 
   Y. Zhou, H. Zhu, and I. Y. Dodin, [Formation of solitary zonal structures via the modulational instability of drift waves](https://iopscience.iop.org/article/10.1088/1361-6587/ab16a8), Plasma Phys. Control. Fusion 61, 075003 (2019).
 
