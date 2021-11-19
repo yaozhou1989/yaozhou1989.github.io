@@ -12,7 +12,7 @@ The stellarator, one of the oldest magnetic fusion concepts, has received revive
 Stellarator plasmas generally have more favorable MHD stability than the more mainstream tokamaks, and in particular, are often found to be more robust than linear stability theory predicts. 
 I have extended the state-of-the-art M3D-C1 code to stellarator geometry to enable pioneering studies on such nonlinear stability, which could potentially expand operation windows for present devices and improve designs for future ones. 
 Below are a few snapshots from a preliminary simulation of a sawtooth-like crash on W7-X induced by a small amount of electron-cyclotron current drive. 
-<br/><img src='/images/w7x_eccd.png' width='600'>
+<br/><img src='/images/w7x_eccd.png' width='750'>
 
 3D MHD equilibria with current singularities
 ======
@@ -39,4 +39,13 @@ A powerful tool for studying inhomogeneous wave (e.g., drift or Rossby) turbulen
 Traditional wave-kinetic theory assumes scale separation and adopts the ray approximation, but recently a more advanced Wigner-Moyal model has been proposed, which treats waves as quantum-like particles and retains essential "full-wave" effects. 
 I implemented this model numerically and applied it to studying coherent structures in drift-wave turbulence. 
 Below are snapshots of Wigner functions, which show intricate phase-space structures, of solitary (row 1) and stationary (row 2) zonal structures in various simulations.
-<br/><img src='/images/coalescence.png' width='600'>
+<br/><img src='/images/wigner.png' width='750'>
+
+Modern wave theory and ray tracing 
+======
+An approach closely related to wave kinetics is ray tracing, a.k.a. geometric optics, which is widely used in many areas such as computer graphics. 
+In plasma physics, ray tracing is often used in modeling propagation of radio-frequency waves in magnetic fusion and laser beams in inertial fusion. 
+However, there are scenarios where geometrical optics fails, such as caustics and mode conversions, which are actually important in practice. 
+Thankfully, recent advances in modern wave theory may be able to model them by extending geometrical optics. 
+Shown below are Wigner fuctions of 1D full-wave simulations of the ordinary-extraodinary-Bernstein conversion in a magnetized plasma, which transparently visualizes the process in phase space. 
+<br/><img src='/images/OXB.png' width='600'>
