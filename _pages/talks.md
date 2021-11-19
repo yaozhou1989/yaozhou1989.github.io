@@ -6,6 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
+Here is a short [talk](https://jbox.sjtu.edu.cn/l/L1opBV) I gave at the 2021 APS-DPP meeting on the stellarator extension of M3D-C1.
+
 Invited talks
 ======
   5th Asia-Pacific Conference on Plasma Physics, Fukuoka, Japan (V, 2021).
