@@ -34,7 +34,7 @@ One approach to designing such schemes by preserving the structures that underpi
 In particular, structure-preserving particle-in-cell methods have matured and are ready to be used in production.
 For ideal MHD, I developed a moving-mesh variational integrator that is free of numerical resistivity, which facilitated the aforementioned studies on current singularity formation.
 Below is a demonstration of this feature by simulating the coalescence instability of magnetic islands, which would typically trigger artificial reconnection with conventional numerical methods.
-However, this fully Lagrangian method has a limited application domain, and more robust (semi-Lagrangian or Eulerian) structure-preserving discretizations of MHD, and fluid systems in general, turn to be much more challenging.
+However, this fully Lagrangian method has a limited application domain, and more robust (semi-Lagrangian or Eulerian) structure-preserving discretizations of MHD, and fluid systems in general, turn out to be much more challenging.
 <p align='center'>
 <img src='/images/coalescence.png' width='600'>
 </p>
