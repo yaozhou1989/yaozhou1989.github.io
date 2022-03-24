@@ -25,6 +25,8 @@ with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.489737
 
 Co-authored publications
 ======
+  Y.-M. Huang, S. R. Hudson, J. Loizu, Y. Zhou, and A. Bhattacharjee, [Numerical study of $\delta$-function current sheets arising from resonant magnetic perturbations](https://aip.scitation.org/doi/full/10.1063/5.0067898), Phys. Plasmas 29, 032513 (2022).
+
   H. Zhu, Y. Zhou, and I. Y. Dodin, [Theory of the tertiary instability and the Dimits shift within a scalar model](https://www.cambridge.org/core/product/identifier/S0022377820000823/type/journal_article), J. Plasma Phys. 86, 905860405 (2020).
 
   D. Pfefferlé, L. Noakes, and Y. Zhou, [Rigidity of MHD equilibria to smooth incompressible ideal motion near resonant surfaces](https://iopscience.iop.org/article/10.1088/1361-6587/ab8ca3), Plasma Phys. Control. Fusion 62, 074004 (2020).
