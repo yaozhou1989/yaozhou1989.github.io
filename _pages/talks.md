@@ -10,6 +10,8 @@ Here is a short [talk](https://vshare.sjtu.edu.cn/play/8d9297e6e5c9473df098c5a50
 
 Invited talks
 ======
+  64th Annual Meeting of the APS Division of Plasma Physics, Spokane, WA (upcoming, 2022).
+
   5th Asia-Pacific Conference on Plasma Physics, Fukuoka, Japan (V, 2021).
 
   3rd Asia-Pacific Conference on Plasma Physics, Hefei, China (2019).
