@@ -29,7 +29,7 @@ Shown below is that the current density distribution becomes more concentrated a
 
 Structure-preserving numerical methods
 ======
-In computational physics, numerical schemes are desired to inherit conservation laws of the continuous systems. 
+In computational physics, numerical schemes are desired to inherit conservation laws from the continuous systems. 
 One approach to designing such schemes by preserving the structures that underpin the conservation laws, i.e., structure-preserving discretization, has become quite popular in plasma physics. 
 In particular, structure-preserving particle-in-cell methods have matured and are ready to be used in production.
 For ideal MHD, I developed a moving-mesh variational integrator that is free of numerical resistivity, which facilitated the aforementioned studies on current singularity formation.
