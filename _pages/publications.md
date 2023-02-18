@@ -25,7 +25,7 @@ with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.489737
 
 Co-authored publications
 ======
-  Y.-M. Huang, Y. Zhou, S. R. Hudson, J. Loizu, and A. Bhattacharjee, [Numerical study of $\delta$-function current sheets arising from resonant magnetic perturbations](https://doi.org/10.1088/1361-6587/acb382), Plasma Phys. Control. Fusion 65 034008, (2023).
+  Y.-M. Huang, Y. Zhou, S. R. Hudson, J. Loizu, and A. Bhattacharjee, [Structure of pressure-gradient-driven current singularity in ideal magnetohydrodynamic equilibrium](https://doi.org/10.1088/1361-6587/acb382), Plasma Phys. Control. Fusion 65, 034008 (2023).
 
   Y.-M. Huang, S. R. Hudson, J. Loizu, Y. Zhou, and A. Bhattacharjee, [Numerical study of $\delta$-function current sheets arising from resonant magnetic perturbations](https://aip.scitation.org/doi/full/10.1063/5.0067898), Phys. Plasmas 29, 032513 (2022).
 
