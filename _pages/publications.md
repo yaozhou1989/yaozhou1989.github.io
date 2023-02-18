@@ -25,6 +25,8 @@ with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.489737
 
 Co-authored publications
 ======
+  Y.-M. Huang, Y. Zhou, S. R. Hudson, J. Loizu, and A. Bhattacharjee, [Numerical study of $\delta$-function current sheets arising from resonant magnetic perturbations](https://doi.org/10.1088/1361-6587/acb382), Plasma Phys. Control. Fusion 65 034008, (2023).
+
   Y.-M. Huang, S. R. Hudson, J. Loizu, Y. Zhou, and A. Bhattacharjee, [Numerical study of $\delta$-function current sheets arising from resonant magnetic perturbations](https://aip.scitation.org/doi/full/10.1063/5.0067898), Phys. Plasmas 29, 032513 (2022).
 
   H. Zhu, Y. Zhou, and I. Y. Dodin, [Theory of the tertiary instability and the Dimits shift within a scalar model](https://www.cambridge.org/core/product/identifier/S0022377820000823/type/journal_article), J. Plasma Phys. 86, 905860405 (2020).
@@ -49,7 +51,7 @@ Co-authored publications
 
 Preprints
 ======
-  Y. Zhou, K. Aleynikova, and N. M. Ferraro, [Nonlinear magnetohydrodynamic modeling of current-drive-induced sawtooth-like crashes in the W7-X stellarator](https://arxiv.org/abs/2207.08620), arXiv:2207.08620 (2022).
+  Y. Zhou, K. Aleynikova, and N. M. Ferraro, [Nonlinear magnetohydrodynamic modeling of current-drive-induced sawtooth-like crashes in the W7-X stellarator](https://arxiv.org/abs/2207.08620), arXiv:2207.08620 (2022), Phys. Plasmas in press.
 
 Ph.D. Thesis
 ======
