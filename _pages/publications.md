@@ -8,7 +8,7 @@ author_profile: true
 
 First-author publications
 ======
-  Y. Zhou, K. Aleynikova, and N. M. Ferraro, [Nonlinear magnetohydrodynamic modeling of current-drive-induced sawtooth-like crashes in the W7-X stellarator](https://doi.org/10.1063/5.0136654), Phys. Plasmas 30, 032503 (2022).
+  Y. Zhou, K. Aleynikova, and N. M. Ferraro, [Nonlinear magnetohydrodynamic modeling of current-drive-induced sawtooth-like crashes in the W7-X stellarator](https://doi.org/10.1063/5.0136654), Phys. Plasmas 30, 032503 (2023).
 
   Y. Zhou, N. M. Ferraro, S. C. Jardin, and H. R. Strauss, [Approach to nonlinear magnetohydrodynamic simulations in stellarator geometry](https://iopscience.iop.org/article/10.1088/1741-4326/ac0b35), Nucl. Fusion 61, 086015 (2021).
 
