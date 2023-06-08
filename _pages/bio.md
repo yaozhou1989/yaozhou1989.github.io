@@ -19,3 +19,11 @@ Employment
 * Feb 2021 - Aug 2021: Staff Research Physicist, Princeton Plasma Physics Laboratory 
 * Sep 2017 - Jan 2021: Associate Research Physicist, Princeton Plasma Physics Laboratory 
 
+Teaching
+======
+* Spring 2023: University Physics B, Shanghai Jiao Tong University
+
+Mentoring
+======
+* 2022 - : Xiaoyu Zhang, PhD Student, Shanghai Jiao Tong University
+* 2023 - : Yihui Liang, Master Student, Shanghai Jiao Tong University
