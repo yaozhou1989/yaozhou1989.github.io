@@ -26,4 +26,7 @@ Teaching
 Mentoring
 ======
 * 2022 - : Xiaoyu Zhang, PhD Student, Shanghai Jiao Tong University
+* 2023 - : Zhenyu Zhou, PhD Student, Shanghai Jiao Tong University
 * 2023 - : Yihui Liang, Master Student, Shanghai Jiao Tong University
+* 2023 - : Fanghao Dong, Undergraduate Student, Shanghai Jiao Tong University
+* 2023 - : Dang Cheng, Undergraduate Student, Shanghai Jiao Tong University
