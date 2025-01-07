@@ -6,6 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
+
+
 First-author publications
 ======
   Y. Zhou, K. Aleynikova, C. Liu, and N. M. Ferraro, [Benign Saturation of Ideal Ballooning Instability in a High-Performance Stellarator](https://doi.org/10.1103/PhysRevLett.133.135102), Phys. Rev. Lett. 133, 135102 (2024).
@@ -26,6 +28,10 @@ First-author publications
 
   Y. Zhou, H. Qin, J. W. Burby, and A. Bhattacharjee, [Variational integration for ideal magnetohydrodynamics
 with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.4897372), Phys. Plasmas 21, 102109 (2014).
+
+Supervised publications
+======
+  Y. Liang, Y. Zhou, F. Dong, C. Zhu, G. Yu, Y. Zhao and G. Dong, [Design of 3D equilibria and coils for steady-state operation of tokamaks](https://iopscience.iop.org/article/10.1088/1741-4326/ada2a9), Nucl. Fusion 65, 026033 (2025).
 
 Co-authored publications
 ======
