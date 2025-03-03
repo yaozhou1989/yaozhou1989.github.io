@@ -35,6 +35,9 @@ Supervised publications
 
 Co-authored publications
 ======
+  R. Ma, C. Zhao, Y. Zhou, and C. Liu, [Numerical study of runaway current impact on
+sawtooth oscillations in tokamaks](https://iopscience.iop.org/article/10.1088/2058-6272/ad91e7), Plasma Sci. Technol. 27, 035101 (2025). 
+
   Y.-M. Huang, Y. Zhou, S. R. Hudson, J. Loizu, and A. Bhattacharjee, [Structure of pressure-gradient-driven current singularity in ideal magnetohydrodynamic equilibrium](https://doi.org/10.1088/1361-6587/acb382), Plasma Phys. Control. Fusion 65, 034008 (2023).
 
   Y.-M. Huang, S. R. Hudson, J. Loizu, Y. Zhou, and A. Bhattacharjee, [Numerical study of $\delta$-function current sheets arising from resonant magnetic perturbations](https://aip.scitation.org/doi/full/10.1063/5.0067898), Phys. Plasmas 29, 032513 (2022).
