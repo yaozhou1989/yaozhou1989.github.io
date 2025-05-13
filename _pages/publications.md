@@ -35,7 +35,7 @@ with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.489737
 Co-authored publications
 ======
 
-  Z. S. Qu, Y. Zhou, A. Kumar, J. Doak, J. Loizu, M. J. Hole[Sawtooth crash in tokamak as a sequence of multi-region relaxed MHD equilibria](https://doi.org/10.1063/5.0260347), Phys. Plasmas 32, 052503 (2025). 
+  Z. S. Qu, Y. Zhou, A. Kumar, J. Doak, J. Loizu, M. J. Hole, [Sawtooth crash in tokamak as a sequence of multi-region relaxed MHD equilibria](https://doi.org/10.1063/5.0260347), Phys. Plasmas 32, 052503 (2025). 
 
   R. Ma, C. Zhao, Y. Zhou, and C. Liu, [Numerical study of runaway current impact on
 sawtooth oscillations in tokamaks](https://iopscience.iop.org/article/10.1088/2058-6272/ad91e7), Plasma Sci. Technol. 27, 035101 (2025). 
