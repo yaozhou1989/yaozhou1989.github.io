@@ -7,6 +7,9 @@ author_profile: true
 {% include base_path %}
 
 
+Supervised publications
+======
+  Y. Liang, Y. Zhou, F. Dong, C. Zhu, G. Yu, Y. Zhao and G. Dong, [Design of 3D equilibria and coils for steady-state operation of tokamaks](https://iopscience.iop.org/article/10.1088/1741-4326/ada2a9), Nucl. Fusion 65, 026033 (2025).
 
 First-author publications
 ======
@@ -29,12 +32,11 @@ First-author publications
   Y. Zhou, H. Qin, J. W. Burby, and A. Bhattacharjee, [Variational integration for ideal magnetohydrodynamics
 with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.4897372), Phys. Plasmas 21, 102109 (2014).
 
-Supervised publications
-======
-  Y. Liang, Y. Zhou, F. Dong, C. Zhu, G. Yu, Y. Zhao and G. Dong, [Design of 3D equilibria and coils for steady-state operation of tokamaks](https://iopscience.iop.org/article/10.1088/1741-4326/ada2a9), Nucl. Fusion 65, 026033 (2025).
-
 Co-authored publications
 ======
+
+  Z. S. Qu, Y. Zhou, A. Kumar, J. Doak, J. Loizu, M. J. Hole[Sawtooth crash in tokamak as a sequence of multi-region relaxed MHD equilibria](https://doi.org/10.1063/5.0260347), Phys. Plasmas 32, 052503 (2025). 
+
   R. Ma, C. Zhao, Y. Zhou, and C. Liu, [Numerical study of runaway current impact on
 sawtooth oscillations in tokamaks](https://iopscience.iop.org/article/10.1088/2058-6272/ad91e7), Plasma Sci. Technol. 27, 035101 (2025). 
 
