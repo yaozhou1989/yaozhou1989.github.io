@@ -21,12 +21,13 @@ Employment
 
 Teaching
 ======
-* Spring 2023: University Physics B, Shanghai Jiao Tong University
+* 2024 - : Introduction to Programming and Computational Physics, Shanghai Jiao Tong University
+* 2023: University Physics B, Shanghai Jiao Tong University
 
 Mentoring
 ======
 * 2022 - : Xiaoyu Zhang, PhD Student, Shanghai Jiao Tong University
 * 2023 - : Zhenyu Zhou, PhD Student, Shanghai Jiao Tong University
-* 2023 - : Yihui Liang, Master Student, Shanghai Jiao Tong University
+* 2023 - : Yihui Liang, PhD Student, Shanghai Jiao Tong University
 * 2023 - : Dang Cheng, Undergraduate/PhD Student, Shanghai Jiao Tong University
 * 2023 - 2024 : Fanghao Dong, Undergraduate Student, Shanghai Jiao Tong University

@@ -34,11 +34,11 @@ with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.489737
 
 Co-authored publications
 ======
+  J. Wang, Y. Zhou, J. M. Duan, Z. W. Ma, and W. Zhang, [CLT-fx: Non-axisymmetric flexible mesh finite difference scheme for stellarator MHD simulations](https://linkinghub.elsevier.com/retrieve/pii/S0010465525002784), Comput. Phys. Commun. 316, 109776 (2025).
 
   Z. S. Qu, Y. Zhou, A. Kumar, J. Doak, J. Loizu, M. J. Hole, [Sawtooth crash in tokamak as a sequence of multi-region relaxed MHD equilibria](https://doi.org/10.1063/5.0260347), Phys. Plasmas 32, 052503 (2025). 
 
-  R. Ma, C. Zhao, Y. Zhou, and C. Liu, [Numerical study of runaway current impact on
-sawtooth oscillations in tokamaks](https://iopscience.iop.org/article/10.1088/2058-6272/ad91e7), Plasma Sci. Technol. 27, 035101 (2025). 
+  R. Ma, C. Zhao, Y. Zhou, and C. Liu, [Numerical study of runaway current impact on sawtooth oscillations in tokamaks](https://iopscience.iop.org/article/10.1088/2058-6272/ad91e7), Plasma Sci. Technol. 27, 035101 (2025). 
 
   Y.-M. Huang, Y. Zhou, S. R. Hudson, J. Loizu, and A. Bhattacharjee, [Structure of pressure-gradient-driven current singularity in ideal magnetohydrodynamic equilibrium](https://doi.org/10.1088/1361-6587/acb382), Plasma Phys. Control. Fusion 65, 034008 (2023).
 
