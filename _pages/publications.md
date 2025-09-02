@@ -9,6 +9,8 @@ author_profile: true
 
 Supervised publications
 ======
+  X. Zhang, Y. Yi, L. Wang, Z.-Q. J. Xu, T. Zhang, and Y. Zhou, [Deep Neural Networks for Modeling Astrophysical Nuclear Reacting Flows](https://iopscience.iop.org/article/10.3847/1538-4357/adf331), Astrophys. J. 990, 105 (2025).
+
   Y. Liang, Y. Zhou, F. Dong, C. Zhu, G. Yu, Y. Zhao and G. Dong, [Design of 3D equilibria and coils for steady-state operation of tokamaks](https://iopscience.iop.org/article/10.1088/1741-4326/ada2a9), Nucl. Fusion 65, 026033 (2025).
 
 First-author publications
