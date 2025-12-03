@@ -10,7 +10,13 @@ Here is a short [talk](https://vshare.sjtu.edu.cn/play/8d9297e6e5c9473df098c5a50
 
 Invited talks
 ======
-  5th Asia-Pacific Conference on Plasma Physics, Fukuoka, Japan (V, 2021).
+  67th Annual Meeting of the APS Division of Plasma Physics, Long Beach, CA (2025).
+
+  28th International Conference on Numerical Simulation of Plasmas, Irvine, CA (2025).
+
+  9th Asia-Pacific Conference on Plasma Physics, Fukuoka, Japan (2025).
+
+  5th Asia-Pacific Conference on Plasma Physics, Online (2021).
 
   3rd Asia-Pacific Conference on Plasma Physics, Hefei, China (2019).
 
