@@ -9,9 +9,9 @@ author_profile: true
 
 Supervised publications
 ======
-  X. Zhang, L. Wang, Y. Gao, & Y. Zhou, [Direct Numerical Simulations of Oxygen-flame-driven Deflagration-to-detonation Transition in Type Ia Supernovae.](https://doi.org/10.3847/1538-4357/ae28ce), Astrophys. J. 996, 123 (2026).
+  X. Zhang, L. Wang, Y. Gao, & Y. Zhou, [Direct Numerical Simulations of Oxygen-flame-driven Deflagration-to-detonation Transition in Type Ia Supernovae](https://doi.org/10.3847/1538-4357/ae28ce), Astrophys. J. 996, 123 (2026).
 
-  D. Cheng, S. Wei, Y. Zhou, F. Wu, Z. Sheng, & J. Zhang, [Impact of resonance absorption on simulations of laser direct-drive implosions. Plasma Science and Technology](https://doi.org/10.1088/2058-6272/ae1ca1), Plasma Sci. Technol. 28, 015202 (2026).
+  D. Cheng, S. Wei, Y. Zhou, F. Wu, Z. Sheng, & J. Zhang, [Impact of resonance absorption on simulations of laser direct-drive implosions](https://doi.org/10.1088/2058-6272/ae1ca1), Plasma Sci. Technol. 28, 015202 (2026).
 
   X. Zhang, Y. Yi, L. Wang, Z.-Q. J. Xu, T. Zhang, and Y. Zhou, [Deep Neural Networks for Modeling Astrophysical Nuclear Reacting Flows](https://iopscience.iop.org/article/10.3847/1538-4357/adf331), Astrophys. J. 990, 105 (2025).
 
