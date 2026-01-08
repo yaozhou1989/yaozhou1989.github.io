@@ -13,8 +13,6 @@ Supervised publications
 
   D. Cheng, S. Wei, . Zhou, F. Wu, Z. Sheng, & J. Zhang, [Impact of resonance absorption on simulations of laser direct-drive implosions. Plasma Science and Technology](https://doi.org/10.1088/2058-6272/ae1ca1), Plasma Sci. Technol. 28, 015202 (2026).
 
-  R. Ma, C. Zhao, Y. Zhou, and C. Liu, [Numerical study of runaway current impact on sawtooth oscillations in tokamaks](https://iopscience.iop.org/article/10.1088/2058-6272/ad91e7), Plasma Sci. Technol. 27, 035101 (2025). 
-
   X. Zhang, Y. Yi, L. Wang, Z.-Q. J. Xu, T. Zhang, and Y. Zhou, [Deep Neural Networks for Modeling Astrophysical Nuclear Reacting Flows](https://iopscience.iop.org/article/10.3847/1538-4357/adf331), Astrophys. J. 990, 105 (2025).
 
   Y. Liang, Y. Zhou, F. Dong, C. Zhu, G. Yu, Y. Zhao and G. Dong, [Design of 3D equilibria and coils for steady-state operation of tokamaks](https://iopscience.iop.org/article/10.1088/1741-4326/ada2a9), Nucl. Fusion 65, 026033 (2025).
