@@ -19,6 +19,8 @@ Supervised publications
 
 First-author publications
 ======
+  Y. Zhou, K. Aleynikova, C. Liu, and N. M. Ferraro, [Nonlinear magnetohydrodynamic modeling of ideal ballooning modes in high $\beta$ Wendelstein 7-X plasmas](https://doi.org/10.1063/5.0320032), Phys. Plasmas 33, 032505 (2026).
+
   Y. Zhou, K. Aleynikova, C. Liu, and N. M. Ferraro, [Benign Saturation of Ideal Ballooning Instability in a High-Performance Stellarator](https://doi.org/10.1103/PhysRevLett.133.135102), Phys. Rev. Lett. 133, 135102 (2024).
 
   Y. Zhou, K. Aleynikova, and N. M. Ferraro, [Nonlinear magnetohydrodynamic modeling of current-drive-induced sawtooth-like crashes in the W7-X stellarator](https://doi.org/10.1063/5.0136654), Phys. Plasmas 30, 032503 (2023).
