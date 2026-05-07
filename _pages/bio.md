@@ -26,8 +26,11 @@ Teaching
 
 Mentoring
 ======
-* 2022 - : Xiaoyu Zhang, PhD Student, Shanghai Jiao Tong University
+* 2025 - : Kaixuan Fan, Postdoc Scholar, Shanghai Jiao Tong University
+* 2025 - : Yuhong Gao, PhD student, Shanghai Jiao Tong University
+* 2025 - : Chuhao Sun, Master student, Shanghai Jiao Tong University
 * 2023 - : Zhenyu Zhou, PhD Student, Shanghai Jiao Tong University
 * 2023 - : Yihui Liang, PhD Student, Shanghai Jiao Tong University
 * 2023 - : Dang Cheng, Undergraduate/PhD Student, Shanghai Jiao Tong University
+* 2022 - 2026 : Xiaoyu Zhang, PhD Student, Shanghai Jiao Tong University
 * 2023 - 2024 : Fanghao Dong, Undergraduate Student, Shanghai Jiao Tong University
