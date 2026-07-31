@@ -44,7 +44,7 @@ with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.489737
 
 Co-authored publications
 ======
-  X. Chu, S. Cowley, N. Ferraro, Y. Zhou, and F. Parra, [Nonlinear saturation of ballooning modes in stellarators](https://iopscience.iop.org/article/10.1088/1741-4326/ae7983) Nucl. Fusion 66, 086021 (2026).
+  X. Chu, S. Cowley, N. Ferraro, Y. Zhou, and F. Parra, [Nonlinear saturation of ballooning modes in stellarators](https://iopscience.iop.org/article/10.1088/1741-4326/ae7983), Nucl. Fusion 66, 086021 (2026).
 
   J. Wang, Y. Zhou, J. M. Duan, Z. W. Ma, and W. Zhang, [CLT-fx: Non-axisymmetric flexible mesh finite difference scheme for stellarator MHD simulations](https://linkinghub.elsevier.com/retrieve/pii/S0010465525002784), Comput. Phys. Commun. 316, 109776 (2025).
 
