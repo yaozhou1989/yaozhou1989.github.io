@@ -9,6 +9,8 @@ author_profile: true
 
 Supervised publications
 ======
+  W. Wang, Y. Zhou, L. Q. Xu, X. Z. Gong, J. P. Qian, B. Zhang, H. L. Zhao, G. Q. Li, Z. C. Lin, S. X. Wang, P. Li, W. B. Liu, Y. C. Hu, Z. H. Wang, Y. T. Guo, T. Q. Jia, and Y. Chao, [Nonlinear MHD simulation of sawtooth crash and saturated steady-state regimes in EAST electron heating-dominant high βp discharge](https://link.springer.com/article/10.1140/epjd/s10053-026-01168-1), Eur. Phys. J. D 80, 55 (2026).
+
   X. Zhang, L. Wang, Y. Gao, and Y. Zhou, [Direct Numerical Simulations of Oxygen-flame-driven Deflagration-to-detonation Transition in Type Ia Supernovae](https://doi.org/10.3847/1538-4357/ae28ce), Astrophys. J. 996, 123 (2026).
 
   D. Cheng, S. Wei, Y. Zhou, F. Wu, Z. Sheng, and J. Zhang, [Impact of resonance absorption on simulations of laser direct-drive implosions](https://doi.org/10.1088/2058-6272/ae1ca1), Plasma Sci. Technol. 28, 015202 (2026).
@@ -42,6 +44,8 @@ with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.489737
 
 Co-authored publications
 ======
+  X. Chu, S. Cowley, N. Ferraro, Y. Zhou, and F. Parra, [Nonlinear saturation of ballooning modes in stellarators](https://iopscience.iop.org/article/10.1088/1741-4326/ae7983) Nucl. Fusion 66, 086021 (2026).
+
   J. Wang, Y. Zhou, J. M. Duan, Z. W. Ma, and W. Zhang, [CLT-fx: Non-axisymmetric flexible mesh finite difference scheme for stellarator MHD simulations](https://linkinghub.elsevier.com/retrieve/pii/S0010465525002784), Comput. Phys. Commun. 316, 109776 (2025).
 
   Z. S. Qu, Y. Zhou, A. Kumar, J. Doak, J. Loizu, M. J. Hole, [Sawtooth crash in tokamak as a sequence of multi-region relaxed MHD equilibria](https://doi.org/10.1063/5.0260347), Phys. Plasmas 32, 052503 (2025). 
