@@ -9,7 +9,9 @@ author_profile: true
 
 Supervised publications
 ======
-  W. Wang, Y. Zhou, L. Q. Xu, X. Z. Gong, J. P. Qian, B. Zhang, H. L. Zhao, G. Q. Li, Z. C. Lin, S. X. Wang, P. Li, W. B. Liu, Y. C. Hu, Z. H. Wang, Y. T. Guo, T. Q. Jia, and Y. Chao, [Nonlinear MHD simulation of sawtooth crash and saturated steady-state regimes in EAST electron heating-dominant high βp discharge](https://link.springer.com/article/10.1140/epjd/s10053-026-01168-1), Eur. Phys. J. D 80, 55 (2026).
+  K. Fan and Y. Zhou, [Available Energy and Ground States of Convective Hydrodynamic and Hydromagnetic Instabilities](https://doi.org/10.1103/bp24-s332), Phys. Rev. Lett. 137, 185101 (2026).
+
+  W. Wang, Y. Zhou, L. Q. Xu, X. Z. Gong, J. P. Qian, B. Zhang, H. L. Zhao, G. Q. Li, Z. C. Lin, S. X. Wang, P. Li, W. B. Liu, Y. C. Hu, Z. H. Wang, Y. T. Guo, T. Q. Jia, and Y. Chao, [Nonlinear MHD simulation of sawtooth crash and saturated steady-state regimes in EAST electron heating-dominant high $\beta_{\mathrm{p}}$ discharge](https://link.springer.com/article/10.1140/epjd/s10053-026-01168-1), Eur. Phys. J. D 80, 55 (2026).
 
   X. Zhang, L. Wang, Y. Gao, and Y. Zhou, [Direct Numerical Simulations of Oxygen-flame-driven Deflagration-to-detonation Transition in Type Ia Supernovae](https://doi.org/10.3847/1538-4357/ae28ce), Astrophys. J. 996, 123 (2026).
 
